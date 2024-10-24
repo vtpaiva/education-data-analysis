@@ -66,7 +66,7 @@ By considering the scatter plots of attributes for elementary and high school le
 
 Subsequently, to verify the relationship between the attributes of high school and elementary school with the respective age-grade distortion rates, Figures 7 and 8 are used.
 
-![Relationship between elementary school rates in the dataset and the age-grade distortion rate in elementary school.](document/Graphics/DispersaoFundamental.png)
+![Relationship between elementary school rates in the dataset and the age-grade distortion rate in elementary school.](document/Graphics/DispersãoFundamental.png)
 
 Thus, it is observed that elementary education shows a stronger relationship between rates and distortion.
 
